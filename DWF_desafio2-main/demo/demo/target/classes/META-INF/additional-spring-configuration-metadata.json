@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "Tomcat",
+      "type": "java.lang.String",
+      "description": "Description for Tomcat."
+  }
+] }
